@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS Android AI Assistant",
+  "description": "Iron Man JARVIS-inspired Android personal voice assistant with bilingual English & Bengali NLU, Accessibility & Vision screen understanding, autonomous task planner, and safety confirmations.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

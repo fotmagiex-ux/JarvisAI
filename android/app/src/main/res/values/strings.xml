@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JARVIS Assistant</string>
+    <string name="accessibility_service_description">Autonomous Android AI Assistant enabling vocal device control, YouTube navigation, WhatsApp drafting, and verified multi-step UI automation in Bengali and English.</string>
+</resources>
